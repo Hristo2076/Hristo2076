@@ -38,7 +38,10 @@ Originally from Sochi 🌴
 -------------
    
 ### 💻 Codewars:
-![codewars]("https://www.codewars.com/users/HZ2076/badges/large")
+ <img alt="Темный значок (большой)" class="hidden dark:block" src="https://www.codewars.com/users/HZ2076/badges/large">
+   
 -------------
+   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khristo&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+   
 -------------
