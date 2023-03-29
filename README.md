@@ -1,10 +1,4 @@
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=QuantumFluxx&style=flat-square&color=blue" alt=""/>
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43">
-    <img src="https://img.shields.io/badge/Secret button-red?style=flat&logo=Wikiquote&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-
+͇"͇У͇ ͇и͇н͇ж͇е͇н͇е͇р͇а͇ ͇н͇е͇т͇ ͇ц͇е͇л͇и͇,͇ ͇е͇с͇т͇ь͇ ͇т͇о͇л͇ь͇к͇о͇ ͇п͇у͇т͇ь͇!͇"
 ----------------
 
 <p>
@@ -44,3 +38,8 @@ Originally from Sochi 🌴
 </div>
 
 -------------
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khristo&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+-------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
