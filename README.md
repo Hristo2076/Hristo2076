@@ -39,7 +39,7 @@ Originally from Sochi 🌴
 -------------
    
 ### 💻 Codewars:
- <img alt="Темный значок (большой)" class="hidden dark:block" src="https://www.codewars.com/users/HZ2076/badges/large">
+ <img alt="Темный значок (большой)" class="hidden dark:block" src="https://www.codewars.com/users/Hristo2076/badges/large">
    
 -------------
    
